@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="settings">Настройки</string>
+    <string name="theme">Тема</string>
+    <string name="night_mode">Ночной режим</string>
+    <string name="english">Английский</string>
+    <string name="uzbek">Узбекский</string>
+    <string name="russian">Русский</string>
+    <string name="language">Язык</string>
+    <string name="save">Сохранять</string>
+    <string name="main_screen">Главный экран</string>
+    <string name="not_connection">Нет соединения с интернетом</string>
+</resources>

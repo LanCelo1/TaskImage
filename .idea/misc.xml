@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jasur/AndroidStudioProjects/TaskApp/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2245" />
+        <entry key="..\:/Users/Jasur/AndroidStudioProjects/TaskApp/app/src/main/res/layout/activity_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Jasur/AndroidStudioProjects/TaskApp/app/src/main/res/layout/item_hr_rv.xml" value="0.1952991452991453" />
+        <entry key="..\:/Users/Jasur/AndroidStudioProjects/TaskApp/app/src/main/res/layout/item_vr_rv.xml" value="0.1952991452991453" />
+        <entry key="..\:/Users/Jasur/AndroidStudioProjects/TaskApp/app/src/main/res/layout/screen_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Jasur/AndroidStudioProjects/TaskApp/app/src/main/res/layout/screen_setting.xml" value="0.1931097008159565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

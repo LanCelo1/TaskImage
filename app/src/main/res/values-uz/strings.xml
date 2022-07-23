@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="theme">Tema</string>
+    <string name="night_mode">Tungi Rejim</string>
+    <string name="english">Ingliz</string>
+    <string name="uzbek">O\'zbek</string>
+    <string name="russian">Rus tili</string>
+    <string name="language">Til sozlamalari</string>
+    <string name="save">Saqlash</string>
+    <string name="main_screen">Asosiy Oyna</string>
+    <string name="not_connection">Internet bilan aloqa yo`q</string>
+</resources>
